@@ -1,0 +1,6 @@
+{
+  "checkpoint": "best.pt",
+  "threshold": 0.5,
+  "validation": {},
+  "seed": 2026
+}

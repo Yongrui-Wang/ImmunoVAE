@@ -1,0 +1,8 @@
+{
+  "artifact_type": "released_pretrained",
+  "selected_checkpoint": "best.pt",
+  "selected_checkpoint_sha256": "08b0c15abf721f2fe4c360cdf11036a5117ecc9a8b4c6cb619575bde243776c5",
+  "selection_metric": "validation AUROC, per author-confirmed study selection",
+  "seed": 2026,
+  "el_initialization_seed": 2026
+}

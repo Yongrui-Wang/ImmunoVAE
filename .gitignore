@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+cache/
+runs/
+*.pt
+*.pth
+*.ckpt
+
+!checkpoints/EL/best.pt
+!checkpoints/IM/best.pt

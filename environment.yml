@@ -1,0 +1,13 @@
+name: immunovae
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip=24.3
+  - numpy=2.2.5
+  - pandas=2.2.3
+  - scikit-learn=1.6.1
+  - pip:
+      - torch==2.5.1
+      - fair-esm==2.0.0
+      - filelock==3.16.1
